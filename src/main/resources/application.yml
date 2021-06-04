@@ -17,5 +17,5 @@ spring:
       ddl-auto: none
 
 application:
-  description: Projeto criado para Santander Dev Week - DIO
-  version: 1.0
+  description: Projeto criado para Santander Dev Week - DIO | Backend
+  version: 2.0
