@@ -1,6 +1,7 @@
 # Santander Dev Week - Backend
 
 ## Deploy:
-> <a href="https://santander-dev-week-dio-backend.herokuapp.com/stock" target="_blank">https://santander-dev-week-dio-backend.herokuapp.com/stock</a>
+> https://santander-dev-week-dio-backend.herokuapp.com/stock
+
 ## Documentação da API (Swagger):
-> <a href="https://santander-dev-week-dio-backend.herokuapp.com/swagger-ui.html" target="_blank">https://santander-dev-week-dio-backend.herokuapp.com/swagger-ui.html</a>
+> https://santander-dev-week-dio-backend.herokuapp.com/swagger-ui.html
